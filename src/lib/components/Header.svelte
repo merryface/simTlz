@@ -3,7 +3,9 @@
 </script>
 
 <header class="Header">
-  I am a header
+  <div class="Header_container">
+    <h1 class="Header_title">SimTlz</h1>
+  </div>
 </header>
 
 <style lang="scss">
