@@ -1,9 +1,7 @@
 <script>
-
+	import Header from './lib/components/Header.svelte';
 </script>
 
 <main>
-  <h1>SimTlz</h1>
-
-  <p class="test">test content in here</p>
+  <Header/>
 </main>
