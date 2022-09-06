@@ -9,5 +9,5 @@
 </header>
 
 <style lang="scss">
-  @import '../styles/Header.scss'
+  @import '../../styles/Header.scss'
 </style>
