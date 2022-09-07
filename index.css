@@ -15,7 +15,3 @@ h1,h2,h3 {
 p, a, button, ul, li, ol, blockquote, span {
   font-size: 1.8rem;
 }
-
-:root {
-  --primary-colour: blue
-}
