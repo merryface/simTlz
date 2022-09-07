@@ -1,5 +1,4 @@
-@import './mixins.scss';
-
 :global(:root) {
+  @import './mixins.scss';
   $primary-colour: #1D0FBD
 }

@@ -10,3 +10,7 @@
 
   </main>
 </main>
+
+<style lang="scss">
+  @import './lib/styles/App.scss';
+</style>

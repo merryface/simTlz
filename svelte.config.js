@@ -9,7 +9,7 @@ const sassPath = `${filePath}/src/lib/styles/`
   const config = {
   preprocess: preprocess({
     scss: {
-      prependData: `@import '${sassPath}global.scss';`
+      prependData: `@import '${sassPath}global.scss'; @import '${sassPath}mixins.scss';`
     }
   }),
   kit: {
