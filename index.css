@@ -16,3 +16,6 @@ p, a, button, ul, li, ol, blockquote, span {
   font-size: 1.8rem;
 }
 
+:root {
+  --primary-colour: blue
+}

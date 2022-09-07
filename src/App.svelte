@@ -5,10 +5,8 @@
 
 <main>
   <Header/>
-  <Button label="A Button"/>
+  <main class="Main">
+    <Button label="A Button"/>
+
+  </main>
 </main>
-
-
-<style lang="scss">
-  @import './lib/styles/global.css'
-</style>
