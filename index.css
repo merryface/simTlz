@@ -12,3 +12,6 @@ h1,h2,h3 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+p, a, button, ul, li, ol, blockquote, span {
+  font-size: 1.8rem;
+}
