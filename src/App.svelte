@@ -9,6 +9,6 @@
 </main>
 
 
-<style>
-  @import './lib/styles/global.scss'
+<style lang="scss">
+  @import './lib/styles/global.css'
 </style>
